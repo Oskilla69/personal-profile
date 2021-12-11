@@ -10,7 +10,7 @@ export default function Socials() {
                 <a href="https://twitter.com"><img src={ twitter } alt="twitter icon"/></a>
                 <a href="https://facebook.com"><img src={ facebook } alt="facebook"/></a>
                 <a href="https://instagram.com"><img src={ instagram } alt="instagram"/></a>
-                <a href="https://github.com"><img src={ github } alt="github"/></a>
+                <a href="https://github.com/Oskilla69"><img src={ github } alt="github"/></a>
             </div>
         </footer>
     )
